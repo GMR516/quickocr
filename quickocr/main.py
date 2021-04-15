@@ -1,5 +1,4 @@
 import os
-from autocorrect import spell
 from subprocess import call
 from PIL import Image, ImageEnhance, ImageFilter
 from mss import mss
